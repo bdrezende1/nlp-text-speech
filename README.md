@@ -1,7 +1,7 @@
 # nlp-text-speech
 # Sistema de Assistência Virtual com PLN e Áudio
 
-Este projeto implementa um sistema de assistência virtual que utiliza técnicas de **Processamento de Linguagem Natural (PLN)** e áudio para interagir com o usuário por meio de comandos de voz. A seguir, apresentamos uma explicação detalhada, ideal para quem é iniciante no assunto.
+Este projeto implementa um sistema de assistência virtual que utiliza técnicas de **Processamento de Linguagem Natural (PLN)** e áudio para interagir com o usuário por meio de comandos de voz. 
 
 ---
 
